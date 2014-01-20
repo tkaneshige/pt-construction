@@ -15,18 +15,8 @@
 
   .custom-h1 {
   	color: black
-  	font-family: Helvetica, sans-serif;
-  	font-weight: 300;
-  	font-size: 64px;
-
-  	color: ;
-	font-family: Helvetica Neue Light, Helvetica Neue, Helvetica, sans-serif;
-	font-weight: 200;
-	font-size: 30px;
+  	font-family: Helvetica Neue Light, Helvetica Neue, Helvetica, sans-serif;
+  	font-weight: 200;
+  	font-size: 30px;
 
   }
-
-<!-- Enable media queries for old IE -->
-<!--[if lt IE 9]>
-   <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
-<![endif]-->
