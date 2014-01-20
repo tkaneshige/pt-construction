@@ -1,0 +1,6 @@
+LOG:  database system was interrupted; last known up at 2014-01-10 18:09:00 HST
+LOG:  database system was not properly shut down; automatic recovery in progress
+LOG:  record with zero length at 0/17EAEC0
+LOG:  redo is not required
+LOG:  autovacuum launcher started
+LOG:  database system is ready to accept connections
