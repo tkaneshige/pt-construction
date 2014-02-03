@@ -4,3 +4,5 @@ LOG:  record with zero length at 0/17EAEC0
 LOG:  redo is not required
 LOG:  autovacuum launcher started
 LOG:  database system is ready to accept connections
+WARNING:  pgstat wait timeout
+WARNING:  pgstat wait timeout

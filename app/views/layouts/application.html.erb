@@ -24,13 +24,29 @@
  
       <!-- Be sure to leave the brand out there if you want it shown -->
 
-      <a class="brand" href="index.html">
-      </a>
+      <img src="Paste-&-Tape-Logo.png" center>
+
+      <br />
+      <br />
+      
+      <%= link_to "Paste & Tape", root_path, :class => "brand" %>
  
       <!-- Everything you want hidden at 940px or less, place within here -->
       <div class="nav-collapse collapse">
         <!-- .nav, .navbar-search, .navbar-form, etc -->
-        
+        <ul class="nav">
+          <li>
+            <%= link_to "Who We Are", "#" %>
+          </li>
+          <li>
+            <%= link_to "What We Do", "#" %>
+          </li>
+          <li>
+            <%= link_to "Contact Us", "#" %>
+          </li>
+        </ul>
+
+
       </div>
  
     </div>
